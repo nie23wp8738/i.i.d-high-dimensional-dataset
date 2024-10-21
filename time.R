@@ -106,7 +106,7 @@ run_test_10_times <- function(test_function, group1, group2) {
 average_time_SKK_test <- run_test_10_times(SKK_test, group1, group2)
 cat("Average time for SKK_test: ", average_time_SKK_test, " seconds\n")
 
-# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Bai and Saranadasa's method)
+# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Srivastava, Katayama, and Kano's method)
 average_time_SKK2013 <- run_test_10_times(SKK2013.TSBF.NABT, group1, group2)
 cat("Average time for SKK2013.TSBF.NABT: ", average_time_SKK2013, " seconds\n")
 
@@ -267,7 +267,7 @@ run_test_10_times <- function(test_function, group1, group2) {
 average_time_SKK_test <- run_test_10_times(SKK_test, group1, group2)
 cat("Average time for SKK_test: ", average_time_SKK_test, " seconds\n")
 
-# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Bai and Saranadasa's method)
+# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Srivastava, Katayama, and Kano's method)
 average_time_SKK2013 <- run_test_10_times(SKK2013.TSBF.NABT, group1, group2)
 cat("Average time for SKK2013.TSBF.NABT: ", average_time_SKK2013, " seconds\n")
 
@@ -373,7 +373,7 @@ run_test_10_times <- function(test_function, group1, group2) {
 average_time_SKK_test <- run_test_10_times(SKK_test, group1, group2)
 cat("Average time for SKK_test: ", average_time_SKK_test, " seconds\n")
 
-# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Bai and Saranadasa's method)
+# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Srivastava, Katayama, and Kano's method)
 average_time_SKK2013 <- run_test_10_times(SKK2013.TSBF.NABT, group1, group2)
 cat("Average time for SKK2013.TSBF.NABT: ", average_time_SKK2013, " seconds\n")
 
@@ -510,7 +510,7 @@ run_test_10_times <- function(test_function, group1, group2) {
 average_time_SKK_test <- run_test_10_times(SKK_test, group1, group2)
 cat("Average time for SKK_test: ", average_time_SKK_test, " seconds\n")
 
-# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Bai and Saranadasa's method)
+# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Srivastava, Katayama, and Kano's method)
 average_time_SKK2013 <- run_test_10_times(SKK2013.TSBF.NABT, group1, group2)
 cat("Average time for SKK2013.TSBF.NABT: ", average_time_SKK2013, " seconds\n")
 
@@ -670,7 +670,7 @@ run_test_10_times <- function(test_function, group1, group2) {
 average_time_SKK_test <- run_test_10_times(SKK_test, group1, group2)
 cat("Average time for SKK_test: ", average_time_SKK_test, " seconds\n")
 
-# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Bai and Saranadasa's method)
+# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Srivastava, Katayama, and Kano's method)
 average_time_SKK2013 <- run_test_10_times(SKK2013.TSBF.NABT, group1, group2)
 cat("Average time for SKK2013.TSBF.NABT: ", average_time_SKK2013, " seconds\n")
 
@@ -803,7 +803,7 @@ run_test_10_times <- function(test_function, group1, group2) {
 average_time_SKK_test <- run_test_10_times(SKK_test, group1, group2)
 cat("Average time for SKK_test: ", average_time_SKK_test, " seconds\n")
 
-# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Bai and Saranadasa's method)
+# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Srivastava, Katayama, and Kano's method)
 average_time_SKK2013 <- run_test_10_times(SKK2013.TSBF.NABT, group1, group2)
 cat("Average time for SKK2013.TSBF.NABT: ", average_time_SKK2013, " seconds\n")
 
@@ -928,7 +928,7 @@ run_test_10_times <- function(test_function, group1, group2) {
 average_time_SKK_test <- run_test_10_times(SKK_test, group1, group2)
 cat("Average time for SKK_test: ", average_time_SKK_test, " seconds\n")
 
-# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Bai and Saranadasa's method)
+# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Srivastava, Katayama, and Kano's method)
 average_time_SKK2013 <- run_test_10_times(SKK2013.TSBF.NABT, group1, group2)
 cat("Average time for SKK2013.TSBF.NABT: ", average_time_SKK2013, " seconds\n")
 
@@ -1077,7 +1077,7 @@ run_test_10_times <- function(test_function, group1, group2) {
 average_time_SKK_test <- run_test_10_times(SKK_test, group1, group2)
 cat("Average time for SKK_test: ", average_time_SKK_test, " seconds\n")
 
-# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Bai and Saranadasa's method)
+# SKK2013.TSBF.NABT (high-dimensional two-sample test based on Srivastava, Katayama, and Kano's method)
 average_time_SKK2013 <- run_test_10_times(SKK2013.TSBF.NABT, group1, group2)
 cat("Average time for SKK2013.TSBF.NABT: ", average_time_SKK2013, " seconds\n")
 
