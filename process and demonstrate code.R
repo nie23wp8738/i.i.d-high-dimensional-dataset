@@ -19,7 +19,7 @@
 # ZGZ2017.GLHTBF.NABT(Y, G, n, p)  # Bayesian factor-based non-asymptotic bootstrap test for GLHT using ZGZ 2017 method
 
 
-# data 1
+# data 1 yeoh-2002-v2
 {# Load the Yeoh 2002 dataset and skip the first row as it contains metadata
 # The dataset is tab-separated and the header is present
 # data1 contains gene expression data for multiple leukemia subtypes
@@ -96,7 +96,7 @@ YS2012.GLHT.NABT(Y, X, C, n, p)
 ZGZ2017.GLHTBF.NABT(Y, G, n, p)
 
 
-# data 2
+# data 2 alizadeh-2000-v3
 {# Load the Alizadeh 2000 dataset
 # Skip the first row as it contains metadata
 # The dataset is tab-separated and the header is present
@@ -185,7 +185,7 @@ YS2012.GLHT.NABT(Y, X, C, n, p)
 ZGZ2017.GLHTBF.NABT(Y, G, n, p)
 
 
-# data 3
+# data 3 tomlins-2006
 {
 # Load the Tomlins 2006 dataset, skipping the first row containing metadata
 # The dataset is tab-separated and includes column headers
@@ -265,7 +265,7 @@ S2007.ks.NABT(Y, n, p)
 YS2012.GLHT.NABT(Y, X, C, n, p)
 ZGZ2017.GLHTBF.NABT(Y, G, n, p)
 
-# data 4
+# data 4 Iris
 {
 # Load the Iris dataset
 # The dataset is in CSV format and includes column headers
@@ -343,7 +343,7 @@ YS2012.GLHT.NABT(Y, X, C, n, p)
 ZGZ2017.GLHTBF.NABT(Y, G, n, p)
 
 
-# data 5
+# data 5 E.coli
 {# ecoli_data.csv
 # Load the E. coli dataset
 # The dataset is in CSV format and includes column headers
